@@ -1,16 +1,12 @@
 ---
 theme: neversink
 layout: cover
-title: プログラミング応用第1回
-info: |
-  ## プログラミング応用第1回
-  2025
-
+title: ガイダンス
 author: 清水 伸高
 mdc: true
 css: unocss
 style: |
-  @import './styles/custom.css';
+  @import 'styles/custom.css';
 
 fonts:
   sans: 'Roboto'
@@ -29,7 +25,7 @@ themeConfig:
 [清水 伸高](https://sites.google.com/view/nobutaka-shimizu/home) (塩浦研 助教)
 
 <div style="position: absolute; bottom: 20px; font-size: 0.8em; width: 100%; text-align: center;">
-June 5th, 2025
+2025年3Q
 </div>
 
 
