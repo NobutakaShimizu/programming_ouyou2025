@@ -4,6 +4,8 @@ layout: cover
 title: ガイダンス
 author: 清水 伸高
 mdc: true
+githubPages:
+  ogp: true
 css: unocss
 style: |
   @import 'styles/custom.css';

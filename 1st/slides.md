@@ -2,10 +2,8 @@
 theme: neversink
 layout: cover
 title: プログラミング応用第1回
-info: |
-  ## プログラミング応用第1回
-  2025
-
+githubPages:
+  ogp: true
 author: 清水 伸高
 mdc: true
 css: unocss
